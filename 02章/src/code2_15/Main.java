@@ -8,6 +8,7 @@ public class Main {
 		System.out.println("あなたの年齢を入力してください。");
 		int age = new java.util.Scanner(System.in).nextInt();
 		System.out.println("ようこそ、" + age + "歳の" + name + "さん");
+		System.out.println("test");
 	}
 
 }
